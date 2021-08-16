@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>EslamiSepehr</Authors>
+    <Copyright />
+    <RepositoryUrl>https://github.com/eslamisepehr/MatrixDecompositionSolver</RepositoryUrl>
+    <PackageTags>Matrix,Decomposition,LU</PackageTags>
+    <Description>Matrix Decomposition:
+* A=LU</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
