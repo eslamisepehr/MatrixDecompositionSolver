@@ -9,6 +9,8 @@
     <Description>Matrix Decomposition:
 * A=LU</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/eslamisepehr/MatrixDecompositionSolver</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
